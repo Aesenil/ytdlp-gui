@@ -1,6 +1,6 @@
 # ytdlp-gui
 
-A simple video and audio downloader gui using yt-dlp and ffmpeg.
+A simple video and audio downloader gui using tkinter, yt-dlp and ffmpeg.
 An ffmpeg binary needs to be in `./ffmpeg/bin` to work.
 The video or audio is saved in the same directory as the code. 
 
